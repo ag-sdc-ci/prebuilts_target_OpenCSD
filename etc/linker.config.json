@@ -1,0 +1,21 @@
+{
+	"provideLibs": [	
+		    "libdummy_binary_libopencsd-decoder-x86_64-v2.so.so",
+		    "libdummy_binary_libopencsd-decoder.a-x86_64-v2.so",
+		    "libdummy_binary_libopencsd-decoder.a.so",
+		    "libdummy_binary_libopencsd-decoder.so.so",
+		    "libdummy_ext_OpenCSD-x86_64-v2.so",
+		    "libdummy_ext_OpenCSD.so",
+		    "libdummy_headers_ext_OpenCSD-x86_64-v2.so",
+		    "libdummy_headers_ext_OpenCSD.so",
+		    "libdummy_shared_OpenCSD-x86_64-v2.so",
+		    "libdummy_shared_OpenCSD.so"
+	],
+	"requireLibs": [	
+		    "libc++_shared.so",
+		    "libc.so",
+		    "libdl.so",
+		    "libm.so"
+	],
+	"visible": true
+}

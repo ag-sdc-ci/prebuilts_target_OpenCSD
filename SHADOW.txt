@@ -1,0 +1,6 @@
+shadow prebuilt repo: OpenCSD (target)
+  upstream: external/OpenCSD
+  api-level: 34 (branch 34-20261016)
+  blobs: org.blisslabs.ag.ext.OpenCSD.apex
+  dev-src: extracted extractive payload (libopencsd_decoder.a, libopencsd_decoder.so, headers) + root Android.bp
+  date: 2026-10-16
